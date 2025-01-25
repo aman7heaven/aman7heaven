@@ -1,16 +1,14 @@
-HELLO!!!
+Here's a more concise version of your GitHub bio:
 
-I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - MERN. I am a professional Technical writer.
+---
 
-- 👋 Hi, I’m @aman7heaven
-- 🌱 I’m currently learning Competitive Coding, DSA, and Backend.
-- 🔭 I’m currently working on Web Development using Node.js and Express
-- 💬 Ask me about DSA
+**Hi, I'm Aman Saxena! 👋**  
+I'm a **Software Engineer** and **Full-stack Developer** with a passion for problem-solving and building efficient solutions. Currently working at **Invince**, I specialize in **AI-powered applications** and **micro-learning content generation**.
 
+I’ve solved over **600 DSA problems** and have hands-on experience with and **Spring Boot**, **Java**, **Python** and **ReactJS**. I was also part of **Microsoft's Mentorship Program**, where I developed a **Face Recognition WebApp** using the **MERN stack** and **OpenCV**.
 
-                     
+I love crafting scalable, user-focused solutions and always look for opportunities to collaborate on exciting projects. Let's build something great together!
 
-<!---
-aman7heaven/aman7heaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+This version keeps it short, clear, and impactful!
